@@ -1,6 +1,6 @@
 # starbucks_clone
 
-En güzel kahveleri içabileceğiniz ve sosyal bir çevre bulabileceğiniz bir platform amacı ile oluşturuldu.
+En güzel kahveleri içebileceğiniz ve sosyal bir çevre bulabileceğiniz bir platform amacı ile oluşturuldu.
 
 # Harici Kullanımlar
 
